@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link rel="stylesheet" href="./style.css">
+    <title>CardGame</title>
+</head>
+<body>
+
+    <div class="main">
+        <div class="main__header">
+            <div class="header__left">
+                <h1 class="header__user header__user_1">User 1</h1>
+                <div class="score__block" >
+                    <b>Score:</b>
+                    <span id="counter__1">0</span>
+                </div>
+            </div>
+
+            <div class="header__user__play" >
+                <h2 id="header__user_in-play">User in play</h1>
+            </div>
+
+            <div class="header__right">
+                <h1 class="header__user header__user_2">User 2</h1>
+                <div class="score__block">
+                    <b>Score:</b>
+                    <span id="counter__2">0</span>
+                </div>
+            </div>
+        </div>
+        <div class="main__body">
+            <div id="body__game" class="body__game"></div>
+        </div>
+    </div>
+    
+    <script src="./script.js" defer></script>
+</body>
+</html>

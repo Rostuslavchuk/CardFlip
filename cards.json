@@ -1,0 +1,154 @@
+{
+    "cards": [
+        {
+            "card": "<div data-value='house' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-house card-icon'></i> </div> </div>"
+        },
+        {
+            "card": "<div data-value='house' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-house card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='star' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-star card-icon'></i> </div> </div>"
+        },
+        {
+            "card": "<div data-value='star' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-star card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='phone' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-phone card-icon'></i> </div> </div>"
+        },
+        {
+            "card": "<div data-value='phone' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-phone card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='ghost' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-ghost card-icon'></i> </div> </div>"
+        },
+        {
+            "card": "<div data-value='ghost' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-ghost card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='pen' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-pen card-icon'></i> </div> </div>"
+        },
+        {
+            "card": "<div data-value='pen' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-pen card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='lock' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-lock card-icon'></i> </div> </div>"
+        },
+        {
+            "card": "<div data-value='lock' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-lock card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='fire' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-fire card-icon'></i> </div> </div>"
+        },
+        {
+            "card": "<div data-value='fire' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-fire card-icon'></i> </div> </div>"
+        },
+
+
+        {
+            "card": "<div data-value='ball' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-brands fa-dribbble card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='ball' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-brands fa-dribbble card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='tree' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-tree card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='tree' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-tree card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='brush' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-brush card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='brush' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-brush card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='binocular' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-binoculars card-icon'></i> </div> </div>"
+        },
+        {
+            "card": "<div data-value='binocular' class='card'> <div class='card__front'></div> <div class='card__back'>  <i class='fa-solid fa-binoculars card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='gamepad' class='card'> <div class='card__front'></div> <div class='card__back'>  <i class='fa-solid fa-gamepad card-icon'></i> </div> </div>"
+        },
+        {
+            "card": "<div data-value='gamepad' class='card'> <div class='card__front'></div> <div class='card__back'>  <i class='fa-solid fa-gamepad card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='fish' class='card'> <div class='card__front'></div> <div class='card__back'>  <i class='fa-solid fa-fish card-icon'></i> </div> </div>"
+        },
+        {
+            "card": "<div data-value='fish' class='card'> <div class='card__front'></div> <div class='card__back'>  <i class='fa-solid fa-fish card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='saucer' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-mug-saucer card-icon'></i> </div> </div>"
+        },
+        {
+            "card": "<div data-value='saucer' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-mug-saucer card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='palette' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-palette card-icon'></i> </div> </div>"
+        },
+        {
+            "card": "<div data-value='palette' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-palette card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='bicycle' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-bicycle card-icon'></i> </div> </div>"
+        },
+        {
+            "card": "<div data-value='bicycle' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-bicycle card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='key' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-key card-icon'></i> </div> </div>"
+        },
+        {
+            "card": "<div data-value='key' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-key card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='handshake' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-handshake card-icon'></i> </div> </div>"
+        },
+        {
+            "card": "<div data-value='handshake' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-handshake card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='globe' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-globe card-icon'></i> </div> </div>"
+        },
+        {
+            "card": "<div data-value='globe' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-globe card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='coins' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-coins card-icon'></i> </div> </div>"
+        },
+        {
+            "card": "<div data-value='coins' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-coins card-icon'></i> </div> </div>"
+        },
+
+        {
+            "card": "<div data-value='calculator' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-calculator card-icon'></i> </div> </div>"
+        },
+        {
+            "card": "<div data-value='calculator' class='card'> <div class='card__front'></div> <div class='card__back'> <i class='fa-solid fa-calculator card-icon'></i> </div> </div>"
+        }
+    ]
+}
